@@ -1,6 +1,7 @@
 # VBA-challenge
 
-In this challenge, I had a lot of ups and downs. Going for multiple office hours helped me every step of the way and I am incredibly grateful for the constant help given by the LA and each tutorial session. I had to re-do my code about 5 times and every time it was re-done, it made it seamless and easy to understand why the code had to be that way. 
+In this challenge, I had a lot of ups and downs. Going for multiple office hours helped me every step of the way and I am incredibly grateful for the constant help given by the LA and each tutorial session. I had to redo my code about 5 times and every time it was redone, it made it seamless and easy to understand why the code had to be that way. In my folder for the assignment, I have 2 copies of a workbook (Solved and pre-solved). The first copy requires you to click on the button which would input all the values once across the multiple sheets and the second copy is completed. Please feel free to click on the button that says "Calculate for all sheets" in the pre-solved workbook. 
+
 
 Here is a copy of my code:
 Sub WorksheetLoop2()
